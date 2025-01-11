@@ -18,6 +18,6 @@ The Taylor method is used to approximate the solution of ODEs using a Taylor ser
 ### Prerequisites
 To run these scripts, you need to have the following Python packages installed:
 
-`matplotlib` for plotting graphs
-`numpy` for numerical calculations (only for RK4 method)
+- `matplotlib` for plotting graphs
+- `numpy` for numerical calculations (only for RK4 method)
 
