@@ -15,7 +15,7 @@ This script implements the 4th-order Runge-Kutta method (RK4) for solving ODEs. 
 #### 3. TaylorMethod.py
 The Taylor method is used to approximate the solution of ODEs using a Taylor series expansion. This script implements the second-order Taylor method for solving an ODE.
 
-Prerequisites
+### Prerequisites
 To run these scripts, you need to have the following Python packages installed:
 
 `matplotlib` for plotting graphs
